@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9445d427.css",
+    "main.js": "/static/js/main.f73de1e6.js",
+    "static/js/787.8b060615.chunk.js": "/static/js/787.8b060615.chunk.js",
+    "static/media/logo_najhan.png": "/static/media/logo_najhan.6487985046085408e42d.png",
+    "index.html": "/index.html",
+    "main.9445d427.css.map": "/static/css/main.9445d427.css.map",
+    "main.f73de1e6.js.map": "/static/js/main.f73de1e6.js.map",
+    "787.8b060615.chunk.js.map": "/static/js/787.8b060615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9445d427.css",
+    "static/js/main.f73de1e6.js"
+  ]
+}
