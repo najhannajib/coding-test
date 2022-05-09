@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9445d427.css",
-    "main.js": "/static/js/main.f73de1e6.js",
-    "static/js/787.8b060615.chunk.js": "/static/js/787.8b060615.chunk.js",
-    "static/media/logo_najhan.png": "/static/media/logo_najhan.6487985046085408e42d.png",
-    "index.html": "/index.html",
-    "main.9445d427.css.map": "/static/css/main.9445d427.css.map",
-    "main.f73de1e6.js.map": "/static/js/main.f73de1e6.js.map",
-    "787.8b060615.chunk.js.map": "/static/js/787.8b060615.chunk.js.map"
+    "main.css": "/coding-test/static/css/main.9445d427.css",
+    "main.js": "/coding-test/static/js/main.968df254.js",
+    "static/js/787.8b060615.chunk.js": "/coding-test/static/js/787.8b060615.chunk.js",
+    "static/media/logo_najhan.png": "/coding-test/static/media/logo_najhan.6487985046085408e42d.png",
+    "index.html": "/coding-test/index.html",
+    "main.9445d427.css.map": "/coding-test/static/css/main.9445d427.css.map",
+    "main.968df254.js.map": "/coding-test/static/js/main.968df254.js.map",
+    "787.8b060615.chunk.js.map": "/coding-test/static/js/787.8b060615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9445d427.css",
-    "static/js/main.f73de1e6.js"
+    "static/js/main.968df254.js"
   ]
 }
